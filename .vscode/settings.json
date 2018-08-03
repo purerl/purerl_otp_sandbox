@@ -1,0 +1,5 @@
+{
+    "purescript.addPscPackageSources": true,
+    "purescript.buildCommand": "make ide",
+    "purescript.sourcePath": "ps_src"
+}
