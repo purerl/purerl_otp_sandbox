@@ -7,7 +7,7 @@ This is a sandbox for different ways of integrating eg OTP behaviours and demons
 
 Dependencies
 -----
-The executables `psc-package` (any relatively recent version) and `purs` (the purerl compiler fork, 0.12+) must be present in the `PATH`.
+The executables [`psc-package`](https://github.com/purescript/psc-package) (any relatively recent version) and [`purs`](https://github.com/purerl/purescript/releases) (the purerl compiler fork, 0.12+) must be present in the `PATH`.
 
 The [`rebar3`](http://www.rebar3.org/) executable should be available to perform the build steps below.
 
