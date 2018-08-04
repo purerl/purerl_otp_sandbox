@@ -9,6 +9,8 @@ Dependencies
 -----
 The executables `psc-package` (any relatively recent version) and `purs` (the purerl compiler fork, 0.12+) must be present in the `PATH`.
 
+The [`rebar3`](http://www.rebar3.org/) executable should be available to perform the build steps below.
+
 Build
 -----
 
