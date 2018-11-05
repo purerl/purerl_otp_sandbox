@@ -22,4 +22,4 @@ clean:
 
 erl:
 	mkdir -p $(COMPILED_PS)
-	cp -pu $(OUTPUT)/*/*.erl $(COMPILED_PS)/
+	cp -p $(OUTPUT)/*/*.erl $(COMPILED_PS)/
